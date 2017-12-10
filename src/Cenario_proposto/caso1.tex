@@ -1,6 +1,6 @@
 \subsection{Anterior à modificação}
 
-A região escolhida para o cenário 1 foi a interligação entre a subestação de Bouca e Zezere, na região central de Portugal como pode ser visto na Figura \ref{fig:caso1}. A mudança no cenário atual é a retirada de uma das duas linha que interligam o barramento da subestação de Bouca com o barramento de 145 kV de Zezere.
+A região escolhida para o cenário 1 foi a interligação entre a subestação de Bouca e Zezere, na região central de Portugal como pode ser visto na Figura \ref{fig:caso1}. A mudança no cenário atual é a retirada de uma das duas linha que interligam o barramento da subestação de Bouca com o barramento de 145 kV de Zezere, o qual pode ser vista na Figura \ref{fig:caso1After}.
 
 \vspace{3.3mm}
 
@@ -16,7 +16,17 @@ A região escolhida para o cenário 1 foi a interligação entre a subestação 
 
 A subestação de Bouca se interliga apenas com o barramento de 145 kV de Zezere e com o barramento de Cabril, o qual possui uma unidade geradora de 104 MW. Existe apenas uma linha de Bouca a Zezere o qual apresenta uma sobrecarga 128\% no transito de potência no sentido Cabril Bouca. A interligação entre bouca e Zezere é feita por duas linhas que apresentam respectivamente  72,5\% e 72,6\% de carregamento.
 
-A subestação de Zezere possui 3 barramentos; o primeiro de 145 kV que interligam a Bouca e Falaguei, o segundo que 230 kV que interligam Santarem, Penela e Cast Bode. O terceiro barramento de 63 kV é onde está conectado uma carga de 111M e um gerador de 22,1 MW. Os dados globais do sistema antes das alterações propostas estão dispostas na tabela \ref{tab:DadosGeraisIniciais}.
+\begin{figure}[H]
+	\centering
+	\captionsetup{width=1\textwidth, font=footnotesize, textfont=bf}	
+	\includegraphics[width=1\linewidth]{img/caso1After.pdf}
+	\caption{Cenário 1, após à modificação}
+	\vspace{-3.5mm}
+	\caption*{Fonte: Caso Simulado no \textit{PowerWorld\textsuperscript{\textregistered} Simulator}}
+	\label{fig:caso1After}
+\end{figure}
+
+A subestação de Zezere possui 3 barramentos; o primeiro de 145 kV que interligam a Bouca e Falaguei, o segundo que 230 kV que interligam Santarem, Penela e Cast Bode. O terceiro barramento de 63 kV é onde está conectado uma carga de 111M e um gerador de 22,1 MW. Os dados globais do sistema antes das alterações propostas estão dispostas na tabela \ref{tab:DadosGeraisIniciais}. Já os dados locais relativos as barras próximas a modificação proposta, estão dispostos na Tabela \ref{tab:DadosLocaisIniciais}.
 
 \begin{table}[H]
 \centering
@@ -70,19 +80,31 @@ Falaguei                            & 148                                  & 65,
   \label{tab:DadosLocaisIniciais}
 \end{table}
 
-% - sUBSECTION
+
 \subsection{Análise do impacto da modificação}
+
+
+\subsubsection{Análise global}
 
 \begin{figure}[H]
 	\centering
-	\captionsetup{width=1\textwidth, font=footnotesize, textfont=bf}	
-	\includegraphics[width=1\linewidth]{img/caso1After.pdf}
-	\caption{Satisfação do Consumo}
+	\captionsetup{width=\textwidth, font=footnotesize, textfont=bf}	
+	\includegraphics[width=\linewidth]{img/global_MW_caso1.pdf}
+	\caption{Análise ativa global antes e após o cenário 1}
 	\vspace{-3.5mm}
-	\caption*{Fonte: Caso Simulado no \textit{PowerWorld\textsuperscript{\textregistered} Simulator}}
-	\label{fig:caso1After}
+	\caption*{Fonte: autoria própria}
+	\label{fig:global_MW_caso1}
 \end{figure}
 
+\begin{figure}[H]
+	\centering
+	\captionsetup{width=\textwidth, font=footnotesize, textfont=bf}	
+	\includegraphics[width=\linewidth]{img/global_MVAr_caso1.pdf}
+	\caption{Análise reativa global antes e após o cenário 1}
+	\vspace{-3.5mm}
+	\caption*{Fonte: autoria própria}
+	\label{fig:global_MVAr_caso1}
+\end{figure}
 \subsubsection{Analisar geradores}
 
 \begin{figure}[H]
