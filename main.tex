@@ -1,0 +1,62 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Atenção!!! todo conteudo está organizado modular- %
+% mente em seu respectivo arquivo na pasta src.     %
+% Favor não encher o main com conteúdo permanente   %
+% para facilitar o desenvolvimento do trabalho.     %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title{Estudo do impacto de ações de re-despacho tendo em conta perturbações em partes da rede elétrica portuguesa}
+
+\documentclass[capchap,sumarioincompleto,a4paper,12pt,ruledheader,normaltoc]{utfprtex}%
+\input{src/capa.tex}
+
+%%%%%%%%% Início das definições %%%%%%%%%
+
+\begin{document}
+
+\capa%
+\newpage%
+\newpage%
+
+
+% RESUMO:
+\begin{Resumo}
+Escreva aqui o texto de seu resumo... 
+\utfprTeX
+\end{Resumo}
+
+\listadefiguras
+
+\listadetabelas
+
+%\listadesiglas
+
+\listadesimbolos
+
+\sumario
+
+%% Capítulos
+\chapter{Introdução} 
+\input{src/Introducao.tex}
+
+\chapter{Caracterização da rede elétrica nacional} 
+\input{src/Caracterizacao_rede.tex}
+
+\chapter{Cenários Proposto} 
+\input{src/Cenario_proposto.tex}
+
+%\chapter{Critérios de análise e validação das soluções} 
+%\input{src/Criterios_analise.tex}
+
+%\chapter{Simulação} 
+%\input{src/Simulacao.tex}
+
+%\chapter{Análise crítica} 
+%\input{src/Analise_critica.tex}
+
+\chapter{Conclusão} 
+\input{src/Conclusao.tex}
+
+%% Bibliografia
+\bibliography{bibliografia.bib}
+
+\end{document}
