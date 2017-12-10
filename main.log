@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.22)  10 DEC 2017 01:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.22)  10 DEC 2017 16:38
 entering extended mode
 **./main.tex
 (main.tex
@@ -843,8 +843,7 @@ G,.JBIG2,.JB2,.eps]
 ))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
-))
-No file main.aux.
+)) (main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -862,6 +861,7 @@ LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 14.
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
@@ -882,6 +882,8 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 14.
 LaTeX Info: Redefining \pageref on input line 14.
 LaTeX Info: Redefining \nameref on input line 14.
+
+(main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
@@ -937,7 +939,7 @@ l.25 \end{Resumo}
                   [1
 
 
-]
+] (main.lof)
 \tf@lof=\write4
 \openout4 = `main.lof'.
 
@@ -952,7 +954,7 @@ een already used, duplicate ignored
 l.29 \listadetabelas
                      [2
 
-]
+] (main.lot)
 \tf@lot=\write5
 \openout5 = `main.lot'.
 
@@ -969,7 +971,7 @@ l.33 \listadesimbolos
 
 ]
 \instream=\read1
- main.tmp nao existe ainda. Rode o latex novamente.
+ (main.los)
 \tf@los=\write6
 \openout6 = `main.los'.
 
@@ -984,7 +986,7 @@ een already used, duplicate ignored
 l.35 \sumario
               [4
 
-]
+] (main.toc)
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
@@ -1026,201 +1028,115 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 3.
 
+(src/Caracterizacao_rede/Analise_da_rede_eletrica_nacional.tex
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 3.
 
-LaTeX Warning: Citation `REN-site' on page 7 undefined on input line 5.
-
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 7.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsphv.fd"
 File: omsphv.fd 
 )
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 7.
-
-
-LaTeX Warning: Citation `REN-site' on page 7 undefined on input line 14.
-
-
-LaTeX Warning: Citation `REN-site' on page 7 undefined on input line 17.
-
-
-LaTeX Warning: Citation `REN-site' on page 7 undefined on input line 19.
-
-
-LaTeX Warning: Reference `fig:Organizacao_SEP_PT' on page 7 undefined on input 
-line 22.
-
-
-LaTeX Warning: Citation `gil2010analise' on page 7 undefined on input line 25.
-
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 3.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 26.
+(babel)             in language  on input line 22.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 26.
-[7
+(babel)             in language  on input line 22.
+ [7
 
-] <img/Organizacao_SEP_PT.pdf, id=45, 681.29532pt x 390.70969pt>
+]
+<img/Organizacao_SEP_PT.pdf, id=237, 681.29532pt x 390.70969pt>
 File: img/Organizacao_SEP_PT.pdf Graphic file (type pdf)
 
 <use img/Organizacao_SEP_PT.pdf>
-Package pdftex.def Info: img/Organizacao_SEP_PT.pdf used on input line 30.
+Package pdftex.def Info: img/Organizacao_SEP_PT.pdf used on input line 26.
 (pdftex.def)             Requested size: 455.24411pt x 261.0766pt.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 31.
-
-
-LaTeX Warning: Citation `gil2010analise' on page 8 undefined on input line 33.
-
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 27.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 29.
+)
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 9.
+
+(src/Caracterizacao_rede/Caracterizacao_das_centrais.tex)
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 47.
+(babel)             in language  on input line 18.
+
+(src/Caracterizacao_rede/Caracterizacao_da_RNT.tex)
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 55.
+(babel)             in language  on input line 26.
 
-LaTeX Warning: Citation `e2p' on page 8 undefined on input line 57.
-
-
-LaTeX Warning: Citation `REN' on page 8 undefined on input line 59.
-
-
-LaTeX Warning: Citation `REN-site' on page 8 undefined on input line 59.
-
-
-Overfull \hbox (10.59505pt too wide) in paragraph at lines 59--60
+(src/Caracterizacao_rede/Perfil_de_producao_nacional.tex
+Overfull \hbox (10.59505pt too wide) in paragraph at lines 3--4
 []\OT1/phv/m/n/12 Como re-sul-tado da pol[]tica energ[]etica por-tu-guesa, em 
 2016 57% da produ[][]ao
  []
 
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 60.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 4.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 60.
+(babel)             in language  on input line 4.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 60.
+(babel)             in language  on input line 4.
 [8 <./img/Organizacao_SEP_PT.pdf>]
-
-LaTeX Warning: Citation `apren' on page 9 undefined on input line 61.
-
-
-LaTeX Warning: Reference `fig:CorrelacaoPrecoMercadoProducaoRenovavel' on page 
-9 undefined on input line 61.
-
-
-<img/CorrelacaoPrecoMercadoProducaoRenovavel.pdf, id=114, 370.3446pt x 230.6261
+<img/CorrelacaoPrecoMercadoProducaoRenovavel.pdf, id=316, 370.3446pt x 230.6261
 pt>
 File: img/CorrelacaoPrecoMercadoProducaoRenovavel.pdf Graphic file (type pdf)
  <use img/CorrelacaoPrecoMercadoProducaoRenovavel.pdf>
 Package pdftex.def Info: img/CorrelacaoPrecoMercadoProducaoRenovavel.pdf used o
-n input line 66.
+n input line 10.
 (pdftex.def)             Requested size: 364.19667pt x 226.81436pt.
 
-
-LaTeX Warning: Citation `apren' on page 9 undefined on input line 69.
-
-
-LaTeX Warning: Citation `REN' on page 9 undefined on input line 73.
-
-
-LaTeX Warning: Reference `fig:ReparticaoDaProducao' on page 9 undefined on inpu
-t line 73.
-
-
-LaTeX Warning: Reference `tab:producao20152016' on page 9 undefined on input li
-ne 73.
-
-<img/ReparticaoDaProducao2016.pdf, id=115, 343.2878pt x 134.66132pt>
+<img/ReparticaoDaProducao2016.pdf, id=323, 343.2878pt x 134.66132pt>
 File: img/ReparticaoDaProducao2016.pdf Graphic file (type pdf)
 
 <use img/ReparticaoDaProducao2016.pdf>
-Package pdftex.def Info: img/ReparticaoDaProducao2016.pdf used on input line 78
+Package pdftex.def Info: img/ReparticaoDaProducao2016.pdf used on input line 22
 .
 (pdftex.def)             Requested size: 318.66948pt x 125.00563pt.
-
-
-LaTeX Warning: Citation `REN' on page 9 undefined on input line 81.
-
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 84.
+(babel)             in language  on input line 28.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 84.
-[9 <./img/CorrelacaoPrecoMercadoProducaoRenovavel.pdf>]
-
-LaTeX Warning: Citation `REN' on page 10 undefined on input line 105.
-
+(babel)             in language  on input line 28.
+ [9 <./img/CorrelacaoPrecoMercadoProducaoRenovavel.pdf>])
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 113.
-
-LaTeX Warning: Citation `REN' on page 10 undefined on input line 115.
-
-
-LaTeX Warning: Reference `fig:SatisfacaoDoConsumo' on page 10 undefined on inpu
-t line 117.
-
+(babel)             in language  on input line 31.
+ (src/Caracterizacao_rede/Perfil_de_Consumo_Nacional.tex
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 118.
+(babel)             in language  on input line 4.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 118.
+(babel)             in language  on input line 4.
+
 [10 <./img/ReparticaoDaProducao2016.pdf>]
-<img/ConsumoEProducaoMaximosAnuais.pdf, id=210, 362.37347pt x 215.28575pt>
+<img/ConsumoEProducaoMaximosAnuais.pdf, id=422, 362.37347pt x 215.28575pt>
 File: img/ConsumoEProducaoMaximosAnuais.pdf Graphic file (type pdf)
 
 <use img/ConsumoEProducaoMaximosAnuais.pdf>
 Package pdftex.def Info: img/ConsumoEProducaoMaximosAnuais.pdf used on input li
-ne 122.
+ne 8.
 (pdftex.def)             Requested size: 318.66948pt x 189.33376pt.
 
-
-LaTeX Warning: Citation `REN' on page 11 undefined on input line 125.
-
-
-LaTeX Warning: Reference `fig:ConsumoDiaDePontaAnual' on page 11 undefined on i
-nput line 129.
-
-
-LaTeX Warning: Citation `apren' on page 11 undefined on input line 129.
-
-<img/ConsumoDiaDePontaAnual.pdf, id=211, 361.71355pt x 224.92877pt>
+<img/ConsumoDiaDePontaAnual.pdf, id=428, 361.71355pt x 224.92877pt>
 File: img/ConsumoDiaDePontaAnual.pdf Graphic file (type pdf)
 
 <use img/ConsumoDiaDePontaAnual.pdf>
-Package pdftex.def Info: img/ConsumoDiaDePontaAnual.pdf used on input line 134.
-
+Package pdftex.def Info: img/ConsumoDiaDePontaAnual.pdf used on input line 20.
 (pdftex.def)             Requested size: 318.66948pt x 198.17473pt.
-
-
-LaTeX Warning: Citation `REN' on page 11 undefined on input line 137.
-
-
-LaTeX Warning: Citation `apren' on page 11 undefined on input line 141.
-
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 142.
+(babel)             in language  on input line 28.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 142.
-[11 <./img/ConsumoEProducaoMaximosAnuais.pdf> <./img/ConsumoDiaDePontaAnual.pdf
-
+(babel)             in language  on input line 28.
+ [11 <./img/ConsumoEProducaoMaximosAnuais.pdf> <./img/ConsumoDiaDePontaAnual.pd
+f
 
 pdfTeX warning: pdflatex.exe (file ./img/ConsumoDiaDePontaAnual.pdf): PDF inclu
 sion: multiple pdfs with page group included in a single page
->]
-
-LaTeX Warning: Citation `apren' on page 12 undefined on input line 143.
-
-
-LaTeX Warning: Reference `fig:SatisfacaoDoConsumo' on page 12 undefined on inpu
-t line 143.
-
-<img/SatisfacaoDoConsumo.pdf, id=275, 363.99768pt x 194.4191pt>
+>] <img/SatisfacaoDoConsumo.pdf, id=498, 363.99768pt x 194.4191pt>
 File: img/SatisfacaoDoConsumo.pdf Graphic file (type pdf)
 
 <use img/SatisfacaoDoConsumo.pdf>
-Package pdftex.def Info: img/SatisfacaoDoConsumo.pdf used on input line 150.
+Package pdftex.def Info: img/SatisfacaoDoConsumo.pdf used on input line 36.
 (pdftex.def)             Requested size: 318.66948pt x 170.22011pt.
-
-
-LaTeX Warning: Citation `REN' on page 12 undefined on input line 153.
-
-)
+))
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 44.
 Package babel Info: Redefining portuges shorthand "|
@@ -1232,351 +1148,284 @@ Package babel Info: Redefining portuges shorthand "|
 (src/Cenario_proposto.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 2.
+ (src/Cenario_proposto/caso1.tex
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 4.
-
-
-LaTeX Warning: Reference `fig:caso1' on page 13 undefined on input line 6.
-
+(babel)             in language  on input line 1.
 
 
 pdfTeX warning: pdflatex.exe (file ./img/caso1.pdf): PDF inclusion: found PDF v
 ersion <1.7>, but at most version <1.5> allowed
-<img/caso1.pdf, id=323, 845.04686pt x 597.50786pt>
+<img/caso1.pdf, id=549, 845.04686pt x 597.50786pt>
 File: img/caso1.pdf Graphic file (type pdf)
  <use img/caso1.pdf>
-Package pdftex.def Info: img/caso1.pdf used on input line 13.
+Package pdftex.def Info: img/caso1.pdf used on input line 10.
 (pdftex.def)             Requested size: 455.24411pt x 321.8927pt.
 LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <10> not available
-(Font)              Font shape `OT1/phv/b/it' tried instead on input line 16.
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 13.
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 16.
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 13.
 LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <7> not available
-(Font)              Font shape `OT1/phv/b/it' tried instead on input line 16.
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 13.
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <7> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 16.
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 13.
 
 
 LaTeX Font Warning: Font shape `OMS/phv/bx/it' undefined
-(Font)              using `OMS/phv/m/n' instead on input line 16.
+(Font)              using `OMS/phv/m/n' instead on input line 13.
 
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 16.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
 
 LaTeX Font Warning: Font shape `OMS/phv/bx/n' undefined
-(Font)              using `OMS/phv/m/n' instead on input line 16.
+(Font)              using `OMS/phv/m/n' instead on input line 13.
 
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <7> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 16.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 13.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <5> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 16.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 13.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 21.
+(babel)             in language  on input line 18.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 21.
+(babel)             in language  on input line 18.
 [13
 
  <./img/caso1.pdf>]
-
-LaTeX Warning: Reference `tab:DadosGeraisIniciais' on page 14 undefined on inpu
-t line 22.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 41.
-
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 72.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 72.
+ [14]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 74.
 
 
 pdfTeX warning: pdflatex.exe (file ./img/caso1After.pdf): PDF inclusion: found 
 PDF version <1.7>, but at most version <1.5> allowed
-<img/caso1After.pdf, id=350, 845.04686pt x 597.50786pt>
+<img/caso1After.pdf, id=577, 845.04686pt x 597.50786pt>
 File: img/caso1After.pdf Graphic file (type pdf)
 
 <use img/caso1After.pdf>
-Package pdftex.def Info: img/caso1After.pdf used on input line 82.
+Package pdftex.def Info: img/caso1After.pdf used on input line 79.
 (pdftex.def)             Requested size: 455.24411pt x 321.8927pt.
 LaTeX Font Info:    Font shape `OMS/phv/bx/it' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 85.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 82.
 LaTeX Font Info:    Font shape `OMS/phv/bx/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 85.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 82.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 85.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 88.
- [14]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 88.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 88.
+(babel)             in language  on input line 85.
  [15]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 89.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 91.
+(babel)             in language  on input line 86.
 
-<img/carregamento_linhas_caso1.pdf, id=362, 523.42903pt x 259.13564pt>
+<img/geradores_caso1.pdf, id=582, 736.92514pt x 483.73926pt>
+File: img/geradores_caso1.pdf Graphic file (type pdf)
+
+<use img/geradores_caso1.pdf>
+Package pdftex.def Info: img/geradores_caso1.pdf used on input line 91.
+(pdftex.def)             Requested size: 455.24411pt x 298.83757pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 97.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 97.
+ [16 <./img/caso1After.pdf>]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 99.
+
+<img/carregamento_linhas_caso1.pdf, id=603, 523.42903pt x 259.13564pt>
 File: img/carregamento_linhas_caso1.pdf Graphic file (type pdf)
 
 <use img/carregamento_linhas_caso1.pdf>
-Package pdftex.def Info: img/carregamento_linhas_caso1.pdf used on input line 9
-6.
+Package pdftex.def Info: img/carregamento_linhas_caso1.pdf used on input line 1
+04.
 (pdftex.def)             Requested size: 409.71692pt x 202.84462pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 102.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 102.
- [16 <./img/caso1After.pdf>]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 106.
+(babel)             in language  on input line 114.
 
-<img/tensoes_barras_caso1.pdf, id=384, 769.84612pt x 444.25972pt>
+<img/tensoes_barras_caso1.pdf, id=604, 770.91211pt x 445.32571pt>
 File: img/tensoes_barras_caso1.pdf Graphic file (type pdf)
 
 <use img/tensoes_barras_caso1.pdf>
-Package pdftex.def Info: img/tensoes_barras_caso1.pdf used on input line 111.
-(pdftex.def)             Requested size: 455.24411pt x 262.7075pt.
+Package pdftex.def Info: img/tensoes_barras_caso1.pdf used on input line 119.
+(pdftex.def)             Requested size: 455.24411pt x 262.97772pt.
+)
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 120.
+(babel)             in language  on input line 4.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 124.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 127.
+(babel)             in language  on input line 4.
+ [17 <./img/geradores_caso1.pdf> <./img/carregamento_linhas_caso1.pdf
 
-
-LaTeX Warning: Reference `fig:caso_2_antes_geral_menor' on page 17 undefined on
- input line 128.
-
+pdfTeX warning: pdflatex.exe (file ./img/carregamento_linhas_caso1.pdf): PDF in
+clusion: multiple pdfs with page group included in a single page
+>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 129.
+(babel)             in language  on input line 6.
+ (src/Cenario_proposto/caso2.tex
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 129.
-[17 <./img/carregamento_linhas_caso1.pdf> <./img/tensoes_barras_caso1.pdf
+(babel)             in language  on input line 1.
 
-pdfTeX warning: pdflatex.exe (file ./img/tensoes_barras_caso1.pdf): PDF inclusi
-on: multiple pdfs with page group included in a single page
->] <img/caso_2_antes_geral.PNG, id=586, 830.35219pt x 452.4403pt>
+<img/caso_2_antes_geral.PNG, id=769, 830.35219pt x 452.4403pt>
 File: img/caso_2_antes_geral.PNG Graphic file (type png)
 
 <use img/caso_2_antes_geral.PNG>
-Package pdftex.def Info: img/caso_2_antes_geral.PNG used on input line 133.
+Package pdftex.def Info: img/caso_2_antes_geral.PNG used on input line 8.
 (pdftex.def)             Requested size: 455.24411pt x 248.04901pt.
-
-
-LaTeX Warning: Reference `fig:caso_2_antes_geral' on page 18 undefined on input
- line 140.
-
-
-LaTeX Warning: Reference `fig:caso_2_antes_geral' on page 18 undefined on input
- line 140.
-
-<img/caso_2_antes_expandido.PNG, id=588, 717.43031pt x 459.21562pt>
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 14.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 14.
+ [18 <./img/tensoes_barras_caso1.pdf>]
+<img/caso_2_antes_expandido.PNG, id=873, 717.43031pt x 459.21562pt>
 File: img/caso_2_antes_expandido.PNG Graphic file (type png)
 
 <use img/caso_2_antes_expandido.PNG>
-Package pdftex.def Info: img/caso_2_antes_expandido.PNG used on input line 145.
-
+Package pdftex.def Info: img/caso_2_antes_expandido.PNG used on input line 20.
 (pdftex.def)             Requested size: 455.24411pt x 291.40248pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 151.
+(babel)             in language  on input line 26.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 151.
- [18 <./img/caso_2_antes_geral.PNG>]
-
-LaTeX Warning: Reference `tab:DadosGeraisIniciais' on page 19 undefined on inpu
-t line 152.
-
-
-LaTeX Warning: Reference `tab:caso_2_antes' on page 19 undefined on input line 
-152.
-
+(babel)             in language  on input line 26.
+ [19 <./img/caso_2_antes_geral.PNG>]
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 159.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 34.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 192.
+(babel)             in language  on input line 67.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 192.
-[19 <./img/caso_2_antes_expandido.PNG>]
+(babel)             in language  on input line 67.
+
+[20 <./img/caso_2_antes_expandido.PNG>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 194.
+(babel)             in language  on input line 69.
 
-
-LaTeX Warning: Reference `fig:caso_2_depois_geral_menor' on page 20 undefined o
-n input line 195.
-
-
-LaTeX Warning: Reference `fig:caso_2_depois_geral' on page 20 undefined on inpu
-t line 195.
-
-
-LaTeX Warning: Reference `tab:caso_2_depois' on page 20 undefined on input line
- 195.
-
-<img/caso_2_depois_geral.PNG, id=605, 1013.28563pt x 459.21562pt>
+<img/caso_2_depois_geral.PNG, id=889, 1013.28563pt x 459.21562pt>
 File: img/caso_2_depois_geral.PNG Graphic file (type png)
 
 <use img/caso_2_depois_geral.PNG>
-Package pdftex.def Info: img/caso_2_depois_geral.PNG used on input line 200.
+Package pdftex.def Info: img/caso_2_depois_geral.PNG used on input line 75.
 (pdftex.def)             Requested size: 455.24411pt x 206.30878pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 206.
+(babel)             in language  on input line 81.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 206.
- [20]
-<img/caso_2_depois_expandido.PNG, id=615, 941.01563pt x 429.85594pt>
+(babel)             in language  on input line 81.
+ [21]
+<img/caso_2_depois_expandido.PNG, id=897, 941.01563pt x 429.85594pt>
 File: img/caso_2_depois_expandido.PNG Graphic file (type png)
 
 <use img/caso_2_depois_expandido.PNG>
-Package pdftex.def Info: img/caso_2_depois_expandido.PNG used on input line 210
-.
+Package pdftex.def Info: img/caso_2_depois_expandido.PNG used on input line 85.
+
 (pdftex.def)             Requested size: 455.24411pt x 207.95515pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 255.
+(babel)             in language  on input line 130.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 255.
- [21 <./img/caso_2_depois_geral.PNG> <./img/caso_2_depois_expandido.PNG>]
-
-LaTeX Warning: Reference `tab:DadosGerais_caso_2' on page 22 undefined on input
- line 256.
-
+(babel)             in language  on input line 130.
+ [22 <./img/caso_2_depois_geral.PNG> <./img/caso_2_depois_expandido.PNG>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 257.
+(babel)             in language  on input line 132.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 257.
-[22]
+(babel)             in language  on input line 132.
+ [23]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 275.
+(babel)             in language  on input line 150.
 
-
-LaTeX Warning: Reference `fig:global_MW_caso2' on page 23 undefined on input li
-ne 276.
-
-
-LaTeX Warning: Reference `fig:global_MVAr_caso2' on page 23 undefined on input 
-line 276.
-
-<img/global_MW_caso2.pdf, id=629, 614.295pt x 794.97pt>
+<img/global_MW_caso2.pdf, id=911, 614.295pt x 794.97pt>
 File: img/global_MW_caso2.pdf Graphic file (type pdf)
 
 <use img/global_MW_caso2.pdf>
-Package pdftex.def Info: img/global_MW_caso2.pdf used on input line 281.
+Package pdftex.def Info: img/global_MW_caso2.pdf used on input line 156.
 (pdftex.def)             Requested size: 455.24411pt x 200.32045pt.
 
-
-LaTeX Warning: Reference `fig:global_MW_caso2' on page 23 undefined on input li
-ne 288.
-
-
-LaTeX Warning: Reference `fig:global_MVAr_caso2' on page 23 undefined on input 
-line 288.
-
-
-LaTeX Warning: Reference `fig:carregamento_linhas_caso2' on page 23 undefined o
-n input line 288.
-
-<img/global_MVAr_caso2.pdf, id=631, 614.295pt x 794.97pt>
+<img/global_MVAr_caso2.pdf, id=916, 614.295pt x 794.97pt>
 File: img/global_MVAr_caso2.pdf Graphic file (type pdf)
 
 <use img/global_MVAr_caso2.pdf>
-Package pdftex.def Info: img/global_MVAr_caso2.pdf used on input line 293.
+Package pdftex.def Info: img/global_MVAr_caso2.pdf used on input line 168.
 (pdftex.def)             Requested size: 455.24411pt x 200.32045pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 299.
+(babel)             in language  on input line 174.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 299.
- [23 <./img/global_MW_caso2.pdf>]
-
-LaTeX Warning: Reference `fig:global_MVAr_caso2' on page 24 undefined on input 
-line 300.
-
+(babel)             in language  on input line 174.
+ [24 <./img/global_MW_caso2.pdf>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 302.
+(babel)             in language  on input line 177.
 
-LaTeX Warning: Reference `fig:geradores_caso2' on page 24 undefined on input li
-ne 303.
-
-<img/geradores_caso2.pdf, id=651, 513.9798pt x 227.45665pt>
+<img/geradores_caso2.pdf, id=936, 513.9798pt x 227.45665pt>
 File: img/geradores_caso2.pdf Graphic file (type pdf)
 
 <use img/geradores_caso2.pdf>
-Package pdftex.def Info: img/geradores_caso2.pdf used on input line 308.
+Package pdftex.def Info: img/geradores_caso2.pdf used on input line 183.
 (pdftex.def)             Requested size: 455.24411pt x 201.46744pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 314.
+(babel)             in language  on input line 189.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 314.
- [24 <./img/global_MVAr_caso2.pdf>]
+(babel)             in language  on input line 189.
+ [25 <./img/global_MVAr_caso2.pdf>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 316.
+(babel)             in language  on input line 191.
 
-
-LaTeX Warning: Reference `fig:carregamento_linhas_caso2' on page 25 undefined o
-n input line 317.
-
-
-Overfull \hbox (11.92555pt too wide) in paragraph at lines 317--318
+Overfull \hbox (11.92555pt too wide) in paragraph at lines 192--193
 []\OT1/phv/m/n/12 Os im-pac-tos da modifica[][]ao no car-re-ga-mento das li-nha
 s li-ga-das []a subesta[][]ao
  []
 
-<img/carregamento_linhas_caso2.pdf, id=670, 538.788pt x 266.61717pt>
+<img/carregamento_linhas_caso2.pdf, id=953, 538.788pt x 266.61717pt>
 File: img/carregamento_linhas_caso2.pdf Graphic file (type pdf)
 
 <use img/carregamento_linhas_caso2.pdf>
-Package pdftex.def Info: img/carregamento_linhas_caso2.pdf used on input line 3
-22.
+Package pdftex.def Info: img/carregamento_linhas_caso2.pdf used on input line 1
+97.
 (pdftex.def)             Requested size: 455.24411pt x 225.275pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 333.
+(babel)             in language  on input line 208.
 
-
-LaTeX Warning: Reference `fig:tensoes_barras_caso2' on page 25 undefined on inp
-ut line 334.
-
-<img/tensoes_barras_caso2.pdf, id=671, 519.91383pt x 270.17468pt>
+<img/tensoes_barras_caso2.pdf, id=955, 519.91383pt x 270.17468pt>
 File: img/tensoes_barras_caso2.pdf Graphic file (type pdf)
 
 <use img/tensoes_barras_caso2.pdf>
-Package pdftex.def Info: img/tensoes_barras_caso2.pdf used on input line 339.
+Package pdftex.def Info: img/tensoes_barras_caso2.pdf used on input line 214.
 (pdftex.def)             Requested size: 455.24411pt x 236.57127pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 344.
+(babel)             in language  on input line 219.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 344.
- [25 <./img/geradores_caso2.pdf> <./img/carregamento_linhas_caso2.pdf
+(babel)             in language  on input line 219.
+ [26 <./img/geradores_caso2.pdf> <./img/carregamento_linhas_caso2.pdf
 
 pdfTeX warning: pdflatex.exe (file ./img/carregamento_linhas_caso2.pdf): PDF in
 clusion: multiple pdfs with page group included in a single page
 >]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 347.
-
-
-LaTeX Warning: Reference `tab:espanha_caso2' on page 26 undefined on input line
- 348.
-
-)
+(babel)             in language  on input line 222.
+))
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 56.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 56.
- [26 <./img/tensoes_barras_caso2.pdf>]
+ [27 <./img/tensoes_barras_caso2.pdf>]
 Cap\'{\i }tulo 4.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 56.
-(src/Conclusao.tex)
-No file main.bbl.
+(src/Conclusao.tex) (main.bbl
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 3.
+ [28
 
-Package lastpage Warning: Rerun to get the references right on input line 62.
+]
+Underfull \hbox (badness 1655) in paragraph at lines 32--36
+[]\OT1/phv/m/n/12 REN. \OT1/phv/b/n/12 O SE-TOR EL[]ETRICO\OT1/phv/m/n/12 . 201
+7. Dis-pon[]vel em: $\OML/cmm/m/it/12 <$\OT1/phv/m/n/12 https:-/-/www-.ren-.pt
+-/pt-PT-
+ []
 
-
+) 
 AED: lastpage setting LastPage
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 62.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 62.
-[27
+[29
 
 ]
 Package babel Info: Redefining portuges shorthand "|
@@ -1598,20 +1447,11 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 62.
 (main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 62.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 62.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: B8277B617A6F140C7948D2FA05D5323E;2028.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  5D7082396CA7EFB62EDC8E2E2C59B379;2139.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
@@ -1619,26 +1459,27 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 62.
  ) 
 Here is how much of TeX's memory you used:
- 9980 strings out of 493323
- 145451 string characters out of 3139066
- 256432 words of memory out of 3000000
- 13197 multiletter control sequences out of 15000+200000
- 34385 words of font info for 76 fonts, out of 3000000 for 9000
+ 10082 strings out of 493323
+ 147387 string characters out of 3139066
+ 259494 words of memory out of 3000000
+ 13250 multiletter control sequences out of 15000+200000
+ 38092 words of font info for 82 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,14n,46p,884b,525s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,14n,44p,951b,525s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/Program Files/MiKTeX 2.
 9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmmib10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/eurosym/fey
-mr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (28 pages, 1083674 bytes).
+type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmmib10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/eurosym/feymr10.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/urw/helvetic/uhvro8a.pfb>
+Output written on main.pdf (30 pages, 1152410 bytes).
 PDF statistics:
- 956 PDF objects out of 1000 (max. 8388607)
- 81 named destinations out of 1000 (max. 500000)
- 108 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1243 PDF objects out of 1440 (max. 8388607)
+ 88 named destinations out of 1000 (max. 500000)
+ 321 words of extra memory for PDF output out of 10000 (max. 10000000)
 

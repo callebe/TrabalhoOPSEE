@@ -15,14 +15,13 @@
 \contentsline {subsection}{\numberline {3.1.2}An\IeC {\'a}lise do impacto da modifica\IeC {\c c}\IeC {\~a}o}{16}{subsection.3.1.2}
 \contentsline {subsubsection}{\numberline {3.1.2.1}Analisar geradores}{17}{subsubsection.3.1.2.1}
 \contentsline {subsubsection}{\numberline {3.1.2.2}An\IeC {\'a}lise das linhas}{17}{subsubsection.3.1.2.2}
-\contentsline {subsubsection}{\numberline {3.1.2.3}An\IeC {\'a}lise dos barramentos}{17}{subsubsection.3.1.2.3}
-\contentsline {subsubsection}{\numberline {3.1.2.4}An\IeC {\'a}lise da interliga\IeC {\c c}\IeC {\~a}o com a Espanha}{18}{subsubsection.3.1.2.4}
+\contentsline {subsubsection}{\numberline {3.1.2.3}An\IeC {\'a}lise dos barramentos}{18}{subsubsection.3.1.2.3}
 \contentsline {section}{\numberline {3.2}Cen\IeC {\'a}rio 2}{18}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}Anterior \IeC {\`a} modifica\IeC {\c c}\IeC {\~a}o}{18}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}An\IeC {\'a}lise do impacto da modifica\IeC {\c c}\IeC {\~a}o}{20}{subsection.3.2.2}
-\contentsline {subsubsection}{\numberline {3.2.2.1}An\IeC {\'a}lise global}{23}{subsubsection.3.2.2.1}
-\contentsline {subsubsection}{\numberline {3.2.2.2}Analisar geradores}{24}{subsubsection.3.2.2.2}
-\contentsline {subsubsection}{\numberline {3.2.2.3}An\IeC {\'a}lise das linhas}{25}{subsubsection.3.2.2.3}
-\contentsline {subsubsection}{\numberline {3.2.2.4}An\IeC {\'a}lise dos barramentos}{26}{subsubsection.3.2.2.4}
-\contentsline {subsubsection}{\numberline {3.2.2.5}An\IeC {\'a}lise da interliga\IeC {\c c}\IeC {\~a}o com a Espanha}{26}{subsubsection.3.2.2.5}
-\contentsline {chapter}{\numberline {4}Conclus\IeC {\~a}o}{27}{chapter.4}
+\contentsline {subsection}{\numberline {3.2.2}An\IeC {\'a}lise do impacto da modifica\IeC {\c c}\IeC {\~a}o}{21}{subsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.1}An\IeC {\'a}lise global}{24}{subsubsection.3.2.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2.2}Analisar geradores}{25}{subsubsection.3.2.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.3}An\IeC {\'a}lise das linhas}{26}{subsubsection.3.2.2.3}
+\contentsline {subsubsection}{\numberline {3.2.2.4}An\IeC {\'a}lise dos barramentos}{27}{subsubsection.3.2.2.4}
+\contentsline {subsubsection}{\numberline {3.2.2.5}An\IeC {\'a}lise da interliga\IeC {\c c}\IeC {\~a}o com a Espanha}{27}{subsubsection.3.2.2.5}
+\contentsline {chapter}{\numberline {4}Conclus\IeC {\~a}o}{28}{chapter.4}
