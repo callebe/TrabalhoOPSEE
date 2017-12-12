@@ -2,8 +2,6 @@
 
 A região escolhida para o cenário 1 foi a interligação entre a subestação de Bouca e Zezere, na região central de Portugal como pode ser visto na Figura \ref{fig:caso1}. A mudança no cenário atual é a retirada de uma das duas linha que interligam o barramento da subestação de Bouca com o barramento de 145 kV de Zezere, o qual pode ser vista na Figura \ref{fig:caso1After}.
 
-\vspace{3.3mm}
-
 \begin{figure}[H]
 	\centering
 	\captionsetup{width=1\textwidth, font=footnotesize, textfont=bf}	
@@ -73,6 +71,9 @@ A subestação de Zezere possui 3 barramentos; o primeiro de 145 kV que interlig
 
 \subsection{Análise do impacto da modificação}
 
+
+Após a retirada de uma das duas linhas paralelas que ligam Bouca a Zezere, o fluxo de potência que era dividido entre as duas linha paralelas passa a correr apenas por uma linha. Como antes da modificação cada uma das linhas transportava um fluxo de 73,4 \% de suas respectivas capacidades máxima, a linha restante sofre uma sobrecarga de 147\%.  Visto que um fluxo maior com uma reatância contante infere uma potência reativa maior na linha e paralelamente uma maior perda ativa também. A Figura \ref{fig:caso1After} apresenta o cenário 1, após a modificação onde é possível notar a sobrecarga na linha Bouca Zezere. 
+
 \begin{figure}[H]
 	\centering
 	\captionsetup{width=1\textwidth, font=footnotesize, textfont=bf}	
@@ -82,6 +83,8 @@ A subestação de Zezere possui 3 barramentos; o primeiro de 145 kV que interlig
 	\caption*{Fonte: Caso Simulado no \textit{PowerWorld\textsuperscript{\textregistered} Simulator}}
 	\label{fig:caso1After}
 \end{figure}
+
+Os resultados obtidos de potência, tensão e carregamento das linhas próximas a modificação realizada estão dispostos na Tabela \ref{tab:DadosLocaisFinaisCaso1}. Os dados globais do sistema português após a modificação se apresentam na Tabela \ref{tab:DadosGeraisAposAlteracaoCaso1}.
 
 \begin{table}[H]
 	\centering
@@ -135,6 +138,7 @@ A subestação de Zezere possui 3 barramentos; o primeiro de 145 kV que interlig
 \end{table}
 
 \subsubsection{Análise global}
+
 
 \begin{figure}[H]
 	\centering
